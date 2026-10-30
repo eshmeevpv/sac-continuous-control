@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.setup_complete
+logs/
+videos/
+runs/
+*.pt
+*.pth
+*.ckpt
+*.mp4
+.DS_Store
