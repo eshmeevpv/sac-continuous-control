@@ -45,4 +45,4 @@ Run the cells in order. The original loop has a ceiling of 1,000,000 iterations 
 - [OpenAI Spinning Up: SAC](https://spinningup.openai.com/en/latest/algorithms/sac.html)
 - [Yandex Data School Practical RL course](https://github.com/yandexdataschool/Practical_RL), source of assignment scaffolding and the original external logger.
 
-The course's rules for publishing homework code should be confirmed before making the repository public. No training dataset, checkpoints, CV or contact details are included.
+The owner authorized public release of this completed coursework assignment. No training dataset, checkpoints, CV or contact details are included.
